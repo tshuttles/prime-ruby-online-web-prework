@@ -1,3 +1,3 @@
-def prime_number
+def prime?
   
 end

@@ -1,4 +1,4 @@
 def prime?(prime)
   require 'prime'
-  Prime
+  Prime.prime?(prime)
 end
